@@ -3,8 +3,6 @@ It's the first app that i make so it won't be perfect
 
 Simple java application for creating AppImages	
 
-download (AppImage) https://github.com/SalaniLeo/AppImageCreator/releases/tag/v1.0
-
 ## How to use 
 
 Requires glibc 2.35
