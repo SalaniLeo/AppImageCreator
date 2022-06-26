@@ -11,7 +11,7 @@
    <p>Requires glibc 2.35 or higher <br> 
     Select the executable file you want to package <br> 
     Set the name <br> Select the image (must be max 256x256) <br> 
-    Set the application type (check <a href="https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html"target="_blank"> valid types</a>)<br> 
+    Set the application type (check <a href="https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html"target="_blank"rel="noreferrer noopener"> valid types</a>)<br> 
      Set the application category (check <a href="https://specifications.freedesktop.org/menu-spec/menu-spec-1.0.html#category-registry"target="_blank">  valid categories</a>) <br> 
     
   <h2>Folder mode</h2> <br>
