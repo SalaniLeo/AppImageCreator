@@ -6,6 +6,11 @@
 <h1>AppImageCreator</h1>
 <p>Simple java application for creating AppImages</p>
   
+  <h2>Download</h2>
+  
+<a href="https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.0/appimage-creator-v1.0-x86_64.AppImage" target="_blank" rel="noopener"> AppImage</a><br> 
+  <a href="https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.0/AppImage-Creator.jar" target="_blank" rel="noopener"> Jar</a><br> 
+  
   <h2>How To Use</h2>
   
    <p>Requires glibc 2.35 or higher <br> 
