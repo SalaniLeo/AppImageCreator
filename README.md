@@ -11,6 +11,8 @@
 <a href="https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.0/appimage-creator-v1.0-x86_64.AppImage" target="_blank" rel="noopener"> AppImage</a><br> 
   <a href="https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.0/AppImage-Creator.jar" target="_blank" rel="noopener"> Jar</a><br> 
   
+        <b>it's my first app so it wont be good and i tested the app only on pop os 22.04(works also with 21.04 and 21.10<b>
+  
   <h2>How To Use</h2>
   
    <p>Requires glibc 2.35 or higher <br> 
@@ -26,7 +28,6 @@
     To use this mode you have to select the executable file inside the application directory(for example /app/bin/exec and not /app/exec), then select the     folder that contains the app(based on the example above /app/)
   
   <b>This mode is still being developed so if you have any ideas tell me!<b>
-      <b>for any help reach out to me<b>
   
  </p>
 
