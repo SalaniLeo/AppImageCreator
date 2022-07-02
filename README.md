@@ -11,7 +11,7 @@
 <a href="https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.0/appimage-creator-v1.0-x86_64.AppImage" target="_blank" rel="noopener"> AppImage</a><br> 
   <a href="https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.0/AppImage-Creator.jar" target="_blank" rel="noopener"> Jar</a><br> 
   
-        <b>it's my first app so it wont be good and i tested the app only on pop os 22.04(works also with 21.04 and 21.10<b>
+  <h4>it's my first app so it wont be good and i tested the app only on pop os 22.04(works also with 21.04 and 21.10<h4>
   
   <h2>How To Use</h2>
   
