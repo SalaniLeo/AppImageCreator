@@ -8,8 +8,8 @@
   
   <h2>Download</h2>
   
-<a href="https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.0/appimage-creator-v1.0-x86_64.AppImage" target="_blank" rel="noopener"> AppImage</a><br> 
-  <a href="https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.0/AppImage-Creator.jar" target="_blank" rel="noopener"> Jar</a>
+<a href=https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.1/AppImageCreator-v1.1-x86_64.AppImage" target="_blank" rel="noopener"> AppImage</a><br> 
+  <a href="https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.1/AppImageCreator-v1.1-x86_64.jar" target="_blank" rel="noopener"> Jar</a>
   <p> Jar file requires some libraries to be imported (see <a href="https://github.com/SalaniLeo/AppImageCreator/tree/main/dependecies" target="_blank" rel="noopener"> list</a>)
   
   <h4>it's my first project so i hope it's good. I tested the app only on Pop_OS 22.04(should work also with 21.04 and 21.10)<h4>
