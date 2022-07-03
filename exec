@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /home/leo/.local/share/AppImage-Creator/
+./AppRun
