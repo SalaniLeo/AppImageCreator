@@ -23,7 +23,6 @@
      Set the application category (check <a href="https://specifications.freedesktop.org/menu-spec/menu-spec-1.0.html#category-registry" target="_blank">  valid categories</a>) <br> 
     
   <h2>Folder mode</h2> <br>
-  <p> This mode is still in beta <br> 
     folder mode won't work for apps that require external dependencies 
     <br> <br> 
     To use this mode you have to select the executable file inside the application directory(for example /app/bin/exec and not /app/exec), then select the     folder that contains the app(based on the example above /app/)
