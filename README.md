@@ -8,7 +8,7 @@
   
   <h2>Download</h2>
   
-<a href="https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.1/AppImageCreator-v1.1-x86_64.AppImage" target="_blank" rel="noopener"> AppImage</a> (recommended)<br> 
+<a href="https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.1/appimage-creator-v1.0-x86_64.AppImage</a> (recommended)<br> 
   <a href="https://github.com/SalaniLeo/AppImageCreator/releases/download/v1.1/AppImageCreator-v1.1-x86_64.jar" target="_blank" rel="noopener"> Jar</a>
   <p> Jar file requires some libraries to be imported (see <a href="https://github.com/SalaniLeo/AppImageCreator/tree/main/dependecies" target="_blank" rel="noopener"> list</a>)
   
